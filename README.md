@@ -1,16 +1,14 @@
 
 Multilocation Enterprise Network Design Using Cisco Packet Tracer
 
-Design and implement a multi-location, inter-networking strategy for a small and stable organization. This organization currently has 5 locations. Corporate headquarters is located in Boston and Mumbai. The company is placed at 3 other locations, which are New York, London and Beijing. Design your network considering following constraints.
+Designed and implemented a multi-location, inter-networking strategy for a small and stable organization. This organization currently has 5 locations. Corporate headquarters is located in Boston and Mumbai. The company is placed at 3 other locations, which are New York, London and Beijing 
 
-• Every office should have the 250 employees with 85% of redundancy (For IP addresses).
-• You are provided 192.168.xx.0/19 (xx = put last two digits of the NUID) network for your entire organization.
-• Use Subnetting to provide network within the above given range.
+• Every office should has 250 employees with 85% of redundancy (For IP addresses).
 • Boston and Mumbai offices have Finance, HR and Technical departments.
 • Other locations have HR and Technical departments.
-• All the IP addresses inside departments should be assigned by DHCP server.
+• All IP addresses inside departments are assigned by DHCP server.
 • The DHCP server for the Boston and Mumbai is present in the Boston’s Technical department and for other 3 locations DHCP server is present in Mumbai’s technical department.
-• Finance departments shouldn’t be accessed by any other departments, but Finance can access any other department.
+• Finance departments will be accessed by any other departments, but Finance can access any other department.
 • Two Finance departments can access each other.
 • All other departments should be able to access each other
 
