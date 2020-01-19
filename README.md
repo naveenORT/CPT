@@ -1,7 +1,9 @@
 
 Multilocation Enterprise Network Design Using Cisco Packet Tracer
 
-Designed and implemented a multi-location, inter-networking strategy for a small and stable organization. This organization currently has 5 locations. Corporate headquarters is located in Boston and Mumbai. The company is placed at 3 other locations, which are New York, London and Beijing 
+Designed and implemented a multi-location, inter-networking strategy for a small and stable organization. 
+
+This organization currently has 5 locations. Corporate headquarters is located in Boston and Mumbai. The company is placed at 3 other locations, which are New York, London and Beijing 
 
 • Every office  has 250 employees with 85% of redundancy (For IP addresses).
 • Boston and Mumbai offices have Finance, HR and Technical departments.
